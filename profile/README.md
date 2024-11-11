@@ -4,7 +4,7 @@
 
 Welcome to the [Ruggles Lab](https://www.ruggleslab.org) GitHub repository! Led by Dr. Kelly Ruggles, our lab at NYU focuses on computational multi-omics to advance understanding of human health, with applications in cancer, inflammation, and cardiovascular disease. We apply data integration, visualization, and predictive modeling to diverse data types, including genomic, proteomic, metabolomic, and microbiome data, as well as clinical trial and behavioral data.
 
-![Ruggles Lab Logo](https://avatars.githubusercontent.com/u/17306844?s=200&v=4)
+![Ruggles Lab Logo](https://github.com/user-attachments/assets/ce188080-23cd-4f97-af83-88411c3f45cc)
 
 ---
 
